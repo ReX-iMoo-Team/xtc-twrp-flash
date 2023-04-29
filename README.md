@@ -5,7 +5,8 @@
 
 #### 安装教程
 
-1.  使用小天才安装工具安装本应用，给予相关权限，按照步骤操作
+1.前往[Releases（gitee）](https://gitee.com/ReXWear/9008-flash/releases/tag/release)页面下载本应用
+2.使用小天才安装工具安装本应用，给予相关权限，按照步骤操作
 
 
 
