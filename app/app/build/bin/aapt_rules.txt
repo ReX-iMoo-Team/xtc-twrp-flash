@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:28
+-keep class com.rex.xtc.recovery.MainActivity { <init>(...); }
+
